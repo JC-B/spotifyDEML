@@ -1,16 +1,11 @@
-Agenda
-
-Introduction
-
-5 Ss
-
-Architecture Diagram
-
-ER Diagram
 
 Low latency reads and updates:
+Batch processing for insights
 
 Scalability:
+Parallel processing
+2 GB of data gathered in evry run 
+Unsure about Music snippets
 
 Generalization:
 
@@ -21,5 +16,6 @@ Ad hoc queries:
 Minimal maintenance:
 
 Debuggability:
+Error logging
 
 Future development
