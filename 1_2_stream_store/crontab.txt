@@ -1,0 +1,1 @@
+0 0,5,10,15,20 * * *  python3 $HOME/run_me.py >> $HOME/log/`date +\%Y\%m\%d\%H\%M\%S`-cron.log 2>&1
